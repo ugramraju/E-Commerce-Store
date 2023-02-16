@@ -1,0 +1,72 @@
+[
+    {
+        "id": "001",
+        "title": "Ghost Wire",
+        "image": "/images/ghostwire.jpg",
+        "description": "Tokyo is a 2022 action-adventure game developed by Tango Gameworks and published by Bethesda Softworks",
+        "price": "1200.00"
+      },
+      {
+        "id": "002",
+        "title": "Rage-2",
+        "image": "/images/rage2.jpg",
+        "description": "Rage 2 is a 2019 first-person shooter video game developed by Avalanche Studios in conjunction with id Software.",
+        "price": "1500.00"
+      },
+      {
+        "id": "003",
+        "title": "Returnal",
+        "image": "/images/retral.jpg",
+        "description": "Returnal is a third-person shooter roguelike video game developed by Housemarque and published by Sony",
+        "price": "800.00"
+      },
+      {
+        "id": "004",
+        "title": "Destiny-2",
+        "image": "/images/destiny-2.jpg",
+        "description": "Destiny 2 is a free-to-play online-only multiplayer first-person shooter video game developed by Bungie.a pay",
+        "price": "2000.00"
+      },
+      {
+        "id": "005",
+        "title": "Forspoken",
+        "image": "/images/forspoken.jpg",
+        "description": "Forspoken is a 2023 action role-playing game developed by Luminous Productions and published by Square Enix.",
+        "price": "2500.00"
+      },
+      {
+        "id": "006",
+        "title": "God Of War",
+        "image": "/images/godofwar.jpg",
+        "description": "God of War is an action-adventure game franchise created by David Jaffe at Sony's Santa Monica Studio.",
+        "price": "2500.00"
+      },
+      {
+        "id": "007",
+        "title": "Days Gone",
+        "image": "/images/daysgone.jpg",
+        "description": "Days Gone is a 2019 action-adventure video game developed by Bend Studio and published by Sony",
+        "price": "2800.00"
+      },
+      {
+        "id": "008",
+        "title": "Devil May Cry",
+        "image": "/images/devil.jpg",
+        "description": "Devil May Cry is a series of action-adventure games created by Hideki Kamiya. It is primarily developed  ",
+        "price": "2000.00"
+      },
+      {
+        "id": "009",
+        "title": "Dead Space",
+        "image": "/images/dead.jpg",
+        "description": "Dead Space is a science fiction/horror media franchise created by Glen Schofield and Michael Condrey, ",
+        "price": "3500.00"
+      },
+      {
+        "id": "010",
+        "title": "Metal Gear",
+        "image": "/images/metal.jpeg",
+        "description": "Midae Video Game Metal Gear Solid 2: SONS of Liberty Solid Snake Action Figure 15CM Hight Game Character Snake",
+        "price": "3200.00"
+      }
+]
